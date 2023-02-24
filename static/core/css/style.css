@@ -2488,7 +2488,7 @@ only screen and (min-width:576px) and (max-width:767px),
 .breadcrumb-menu li:not(:last-child):after {
     display: inline-block;
     color: var(--clr-common-white);
-    content: "\f105";
+    content: "\f104";
     position: absolute;
     right: -14px;
     top: 0;
